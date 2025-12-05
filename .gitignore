@@ -1,0 +1,17 @@
+# Ghidra cache and project noise
+*.gpr
+*.rep
+index/
+rehashes/
+.tmp/
+.project
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# No binaries or copyright material
+*.elf
+*.iso
+SLES_*.*
+
